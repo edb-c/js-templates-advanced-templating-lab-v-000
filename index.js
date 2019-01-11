@@ -59,7 +59,7 @@ function handlebarsSetup() {
 
 
 function init() {
-  //put any page initialization/handlebars initialization here
+  //put any page initialization/handlebars initialization here - called when the page loads
   handlebarsSetup()
   initForm()
 }
